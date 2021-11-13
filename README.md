@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi , My name is Ali
 
-<!--
-**ozgencDev/ozgencDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Computer Science Enthusiast and I am trying to improve myself on Full Stack Web development.
 
-Here are some ideas to get you started:
+## I am learning Javascript based technologies (mongodb - (mongoose), express, react, node)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## How To Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/ozgencdev/)
+- ozgencdev@gmail.com
+
+---
+
+## Technologies I use and learn
+
+- Mongodb
+- SQL
+- Express
+- React
+- Node
+- Tailwindcss
+- Docker
