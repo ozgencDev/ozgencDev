@@ -22,3 +22,7 @@
 - Node
 - Tailwindcss
 - Docker
+- Vue
+- Restify
+- Knex
+- SCSS
